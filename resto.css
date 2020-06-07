@@ -1,0 +1,189 @@
+html
+{
+size: 100%;
+
+}
+
+body
+{
+    background-color: gray; 
+    background-image: url(image1/4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-blend-mode: soft-light;
+    background-attachment: fixed;
+    
+}
+
+
+
+.banana {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+.login {
+    height: 50px;
+    font-weight: 70px;
+    float: right;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.384);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 9px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+
+}
+
+img{ 
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+
+
+header {
+    height: 160px;
+    text-align: center; 
+    
+}
+
+nav {
+background-color:rgba(0, 0, 0, 0.301);
+height: 20px;
+padding-top:5px;
+padding-bottom:5px;
+margin-top: auto;
+text-align: center;
+ 
+}
+
+main 
+  {    height: 820px;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 40px;
+
+    }
+
+    .mannat {
+
+        height: 300px;
+        width: 450px;
+        margin-top: 50px;
+        padding-bottom: 50px;
+        background-color: rgba(0, 0, 0, 0.377);
+        float:left;
+        text-align: center;
+
+    }
+
+    .MP
+    {
+     margin: auto;   
+     max-width: 100%;
+     max-height:100%
+    }
+
+    h5{
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+
+
+    }
+
+    .swami {
+
+        height: 300px;
+        width: 450px;
+        margin-top: 50px;
+        padding-bottom: 50px;
+        background-color: rgba(0, 0, 0, 0.377);
+       float: right;
+    }
+    
+    footer 
+    {
+
+    background-color: rgba(0, 0, 0, 0.322);
+    height: 100px;
+    text-align: center;
+        }
+
+        .Foot {
+
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+        padding-top:40px;
+        font-size: 12px;
+
+        }
+            
+       h1{
+           font-size: 84px;
+           color: white;
+           font-family: Arial, Helvetica, sans-serif;    
+
+       }
+        
+           
+       p {
+        font-size: 18px;
+        color: white;
+           font-family: Arial, Helvetica, sans-serif;    
+
+    }
+
+    .alfa2 {
+
+        color: honeydew;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        text-align: center;
+    }
+
+    /*.alfa {
+
+        color: red;
+        font-variant: small-caps;
+        
+    } */
+    .alfa4 {
+
+        color: red;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+    }
+
+    .alfa4:hover {
+
+    color: sandybrown;
+    }
+
+    .alfa2:hover {
+
+        color: sandybrown;
+    }
+    
+
+    nav a {
+    text-decoration: none;
+    color: white;    
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: 10px;
+   padding-left: 10px;
+   padding-right: 10px;    
+}
+
+
+    nav a:hover {
+
+        color: wheat;
+    }
+    
